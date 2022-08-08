@@ -1,1 +1,2 @@
-# DataScience_Internship_july_2022
+# Python Hacker Rank Solutions
+#### For some programs, i learned solutions from google and i implemented in hacker rank
